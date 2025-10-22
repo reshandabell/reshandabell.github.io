@@ -37,6 +37,7 @@ $(function () {
   createPlatform(800,400,150,20,"purple");
   createPlatform(1100,300,200,20,"orange");
   createPlatform(1350,200,120,20,"red");
+  createPlatform(400,350,200,20, "gold" 300, 500, 1);
 
 
 
@@ -45,7 +46,7 @@ createCollectable("diamond", 300, 550, 0, 0);
 createCollectable("grace", 850, 370, 0.5, 0.7);
 createCollectable("max", 1150, 270, 0, 0);
 createCollectable("steve", 400, 480, 0, 1);
-
+createCollectable("gem", 200,150,0,1,100,300,2);
 
     
     // TODO 4 - Create Cannons
