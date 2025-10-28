@@ -47,7 +47,6 @@ $(function () {
   createCollectable("max", 1150, 270, 0, 0);
   createCollectable("steve", 400, 480, 0, 1);
   
-
     
     // TODO 4 - Create Cannons
   createCannon("left", 500, 1500);
